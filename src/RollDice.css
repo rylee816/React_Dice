@@ -1,0 +1,19 @@
+button {
+    margin: 6em auto;
+    padding: 25px 80px;
+    border: none;
+    border-radius: 10rem;
+    background: black;
+    color: white;
+    font-size: 1rem;
+    font-weight: 300;
+    outline: none;
+    letter-spacing: .1rem;
+    display: block;
+}
+
+button:hover{
+    background: rgb(109, 109, 231);
+    color: white;
+    cursor: pointer;
+}
